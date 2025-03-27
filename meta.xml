@@ -1,0 +1,8 @@
+<meta>
+	<info author="Kino" type="script" version="1.0" />
+	<!-- Remove this Line you dont using Killmessages! -->
+	<include resource="killmessages" />
+	<!-- Remove this Line you dont using Killmessages! -->
+	<script src="server.lua" type="server" />
+	<script src="client.lua" type="client" />
+</meta>
